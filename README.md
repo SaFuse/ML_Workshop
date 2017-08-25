@@ -31,5 +31,8 @@ activate pre
 [Vector Representations of Words](https://www.tensorflow.org/tutorials/word2vec)
 :Building a `word2vec` model in TensorFlow
 
+[gensim](https://radimrehurek.com/gensim/index.html)
+:word2vector
+
 ## Hang on
 install `tensorflow` in Anaconda environment
